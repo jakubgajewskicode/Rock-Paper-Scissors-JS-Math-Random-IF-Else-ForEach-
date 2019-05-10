@@ -12,4 +12,4 @@ Simple game which is based on JavaScript. Three arrays, 6 diffrent functions whi
 - endGame (clearing hands)
 - startGame (comparing hands and adding to the results)
 
-Click link to play on top of the page to play
+Click link to play on top of the page 
